@@ -25,7 +25,7 @@
           <span class="span"><label>Цвет текста:
             <select class="filter select color-setting" name="font-color">
               <option class="select" value="inherit" selected>По умолчанию</option>
-              <option class="select" value="black">Чёрныйй</option>
+              <option class="select" value="black">Чёрный</option>
               <option class="select" value="white">Белый</option>
               <option class="select" value="ghostwhite">Светло-серый</option>
               <option class="select" value="pink">Розовый</option>
